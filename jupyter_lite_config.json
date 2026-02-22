@@ -1,0 +1,11 @@
+{
+  "LiteBuildConfig": {
+    "contents": ["content"],
+    "apps": ["lab"]
+  },
+  "LitePluginSettings": {
+    "@jupyterlite/pyodide-kernel-extension:kernel": {
+      "disablePyPIFallback": false
+    }
+  }
+}

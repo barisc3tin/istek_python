@@ -2,7 +2,8 @@ name: Deploy JupyterLite to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -12,23 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install JupyterLite
+      - name: Install JupyterLite + Pyodide kernel
         run: |
           python -m pip install --upgrade pip
-          pip install jupyterlite jupyter-server
+          pip install jupyterlite jupyterlite-pyodide-kernel jupyter-server
 
-      - name: Build site
+      - name: Build JupyterLite site
         run: |
           jupyter lite build --contents content --output-dir dist
 
-      - name: Deploy to gh-pages
+      - name: Deploy to GitHub Pages (gh-pages branch)
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
