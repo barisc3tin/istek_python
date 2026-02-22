@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-02-22T15:17:39.955625Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-02-22T15:17:23.551481Z",
+      "mimetype": null,
+      "name": "10sinif_21hafta.ipynb",
+      "path": "10_sinif/10sinif_21hafta.ipynb",
+      "size": 3987,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-02-22T15:17:39.955625Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-02-22T15:17:39.955625Z",
+  "mimetype": null,
+  "name": "10_sinif",
+  "path": "10_sinif",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
