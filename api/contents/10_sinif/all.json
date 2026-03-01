@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-03-01T22:05:47.331535Z",
+      "created": "2026-03-01T22:09:30.261730Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-03-01T22:05:35.240110Z",
+      "last_modified": "2026-03-01T22:09:19.410947Z",
       "mimetype": null,
       "name": "10sinif_21hafta.ipynb",
       "path": "10_sinif/10sinif_21hafta.ipynb",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-03-01T22:05:47.331839Z",
+      "created": "2026-03-01T22:09:30.262180Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-03-01T22:05:35.240225Z",
+      "last_modified": "2026-03-01T22:09:19.411041Z",
       "mimetype": null,
       "name": "10sinif_22hafta.ipynb",
       "path": "10_sinif/10sinif_22hafta.ipynb",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-03-01T22:05:47.331839Z",
+  "created": "2026-03-01T22:09:30.262180Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-03-01T22:05:47.331839Z",
+  "last_modified": "2026-03-01T22:09:30.262180Z",
   "mimetype": null,
   "name": "10_sinif",
   "path": "10_sinif",
