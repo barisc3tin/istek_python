@@ -1,18 +1,14 @@
 {
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {},
   "LiteBuildConfig": {
     "contents": ["content"],
     "apps": ["lab"]
   },
-  "LitePluginSettings": {
+  "litePluginSettings": {
     "@jupyterlite/pyodide-kernel-extension:kernel": {
       "disablePyPIFallback": false
-    }
-  }
-}
-{
-  "jupyter-lite-schema-version": 0,
-  "jupyter-config-data": {},
-  "litePluginSettings": {
+    },
     "@jupyterlite/service-worker-extension:plugin": {
       "disabled": true
     }

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-03-01T20:59:37.807271Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-01T20:57:23.376554Z",
+      "mimetype": null,
+      "name": "10sinif_21hafta.ipynb",
+      "path": "10_sinif/10sinif_21hafta.ipynb",
+      "size": 4134,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-03-01T20:59:37.816271Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-03-01T20:57:23.376554Z",
+      "mimetype": null,
+      "name": "10sinif_22hafta.ipynb",
+      "path": "10_sinif/10sinif_22hafta.ipynb",
+      "size": 252,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-03-01T20:59:37.807271Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-03-01T20:59:37.816271Z",
+  "mimetype": null,
+  "name": "10_sinif",
+  "path": "10_sinif",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
